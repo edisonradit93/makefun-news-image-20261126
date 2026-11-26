@@ -1,8 +1,8 @@
 # The Global Chronicle — `news-image-20261126`
 
-[![Make.fun](https://img.shields.io/badge/make.fun-news--image--20261126-111827)](https://make.fun/bounties/news-image-20261126)
-[![Edition](https://img.shields.io/badge/edition-26%20Nov%202026%20Broadsheet-1d4ed8)](./entry.png)
-[![Runtime](https://img.shields.io/badge/runtime-Node.js%20ESM%20%2B%20TypeScript-059669)](./main.ts)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/edisonradit93/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/edisonradit93/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Submission for the Make.fun **`news-image-20261126`** visual news broadsheet competition, delivering a deterministic `1024x1024` front-page edition of **The Global Chronicle** for **Thursday, 26 November 2026**.
 
