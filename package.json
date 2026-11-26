@@ -1,0 +1,19 @@
+{
+  "name": "makefun-news-image-20261126",
+  "version": "1.0.0",
+  "description": "Make.fun news-image-20261126 submission: The Global Chronicle broadsheet for Thursday, 26 November 2026.",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts",
+    "render": "node main.ts"
+  },
+  "keywords": [
+    "make.fun",
+    "news-image-20261126",
+    "broadsheet",
+    "global-chronicle",
+    "deterministic"
+  ],
+  "license": "MIT"
+}
